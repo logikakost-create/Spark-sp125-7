@@ -1,0 +1,35 @@
+body{
+  font-family: sans-serif;
+  margin: 0;
+  
+}
+header {
+    background-color: #1d50c4;
+    padding: 10px;
+ 
+}
+h1 {
+    font-size: 40px;
+   margin-bottom: 2px;
+}
+h2 {
+    margin: 5px;
+}
+.atv {
+    height: 100px;
+}
+main {
+    background-color: #004680;
+    padding: 10px;
+    color: white;
+     text-shadow: 1px 2px 4px #001f4a; 
+}
+h3 {
+    font-size:25px;
+}
+.fmi {
+   height: 150px;
+} 
+.wheel {
+  height: 150px;  
+}
